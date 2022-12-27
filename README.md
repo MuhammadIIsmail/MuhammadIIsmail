@@ -1,8 +1,16 @@
 - 👋 Hi, I’m @MuhammadIIsmail
-- 👀 I’m interested in Drug Design
-- 🌱 I’m currently learning Machine Learning
+
+- 🔭 I am currently working as an Assistant Lecturer of Pharmaceutical Chemistry at The British University in Egypt
+
+- 👀 I’m interested in Computational Drug and Protein Design
+
+- 🌱 I’m currently learning Machine Learning and Quantum Chemistry
+
+- 💻 I mainly code in Python, Bash and Tcl
+
+- 💬 Ask me about Drug Design / Molecular Dynamics / Data Analysis
+
 - 💞️ I’m looking to collaborate on Drug Design methodology development
-- 📫 How to reach me ...
 
 <!---
 MuhammadIIsmail/MuhammadIIsmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
