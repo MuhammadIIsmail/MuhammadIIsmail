@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @MuhammadIIsmail
 
-- 🔭 I am currently working as Assistant Lecturer of Pharmaceutical Chemistry at [The British University in Egypt](http://www.bue.edu.eg/)
+- 🔭 I am currently working as Assistant Lecturer of Pharmaceutical Chemistry at [The British University in Egypt](https://www.bue.edu.eg/)
 
 - 👀 I’m interested in ***Computational Drug and Protein Design***
 
